@@ -5,10 +5,13 @@
 Tiện ích được viết bằng Javascript. Yêu cầu cài đặt NodeJS và Yarn để hoạt động bình thường.
 
 Cách sử dụng:
+
     - Clone repo này
+
     - Thực hiện lệnh
     ```bash
     yarn install
     node index.js
     ```
+    
     - Thấy thông báo "Saved!" là đã thành công. File danh bạ là output.vcf.
